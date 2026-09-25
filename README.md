@@ -1,1 +1,8 @@
-# atividade_de_ds
+# proj1
+Projeto da disciplina Desenvolvimento de Sistemas.
+
+## Objetivo
+Aprender GitHub e controle de versão.
+
+##Integrantes
+- pessoa1i,pessoa 2, pessoa3.....
